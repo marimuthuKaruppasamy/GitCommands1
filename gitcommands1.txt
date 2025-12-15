@@ -22,5 +22,17 @@ git commit -m "commit msg"
 git remote add origin url--why this step because we are not connecting with any repo so we need create one repo and push the code
 git push origin master--why we are mentioning master if we are creating git locally main branch is the master only
 
+6.How to create the branch
+git branch--it will check the current branch
+git checkout branchname--it will switch is branchname
+git branch -m main--it will rename the current branch to main
+git branch -a--it will list all the branches
+git checkout -b marimuthu--it will create the marimuthu branch and switch to marimuthu branch
+
+
+
+
+
+
 
 
