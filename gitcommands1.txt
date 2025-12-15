@@ -29,6 +29,8 @@ git branch -m main--it will rename the current branch to main
 git branch -a--it will list all the branches
 git checkout -b marimuthu--it will create the marimuthu branch and switch to marimuthu branch
 
+whenever we are mergeing we are in the main branch merge the other branch and push the code.
+
 
 
 
