@@ -31,6 +31,8 @@ git checkout -b marimuthu--it will create the marimuthu branch and switch to mar
 
 whenever we are mergeing we are in the main branch merge the other branch and push the code.
 
+we cannot do pull request in the command prombt
+
 
 
 
