@@ -33,6 +33,8 @@ whenever we are mergeing we are in the main branch merge the other branch and pu
 
 we cannot do pull request in the command prombt but we can do in the github
 
+will try when code push in the git then jenkins job will trigger
+
 
 
 
